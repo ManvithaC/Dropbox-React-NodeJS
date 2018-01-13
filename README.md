@@ -4,7 +4,7 @@ The goal is to simulate the features of Dropbox web application which is a perso
 
 ## Technology Stack
 ![mern](https://user-images.githubusercontent.com/20053808/34910064-befd4e7e-f862-11e7-803a-2c66a1ddede2.jpg)
-![33642283-1e691020-d9ee-11e7-8b19-88a87e549cee](https://user-images.githubusercontent.com/20053808/34910244-d9b64b96-f865-11e7-8399-c041730ce55c.PNG)
+<img width="307" alt="2018-01-13 1" src="https://user-images.githubusercontent.com/20053808/34910255-0227fc6e-f866-11e7-8827-4ce018de18a1.png">
 
 
 ## Features Of System
